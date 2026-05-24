@@ -3,6 +3,6 @@
 # 2 Skapa projekt och synka med GitHub - check
 
 message = "Hello world"
-name = "MJP"
+name = "Marie"
 print(message)
 print("This program was made by " + (name) + ".")
