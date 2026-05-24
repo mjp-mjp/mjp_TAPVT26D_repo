@@ -1,0 +1,13 @@
+# PyCharm-grejer
+.idea/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache-filer
+__pycache__/
+*.pyc
+
+# Min testmapp
+TestarPythonProject/
